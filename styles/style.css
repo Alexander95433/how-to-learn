@@ -52,7 +52,7 @@
   z-index: 2;
 }
 .header___main-illustration{
-  height:608px ;
+  height:608px;
   width: 765px;
   background-size: cover;
   position: absolute;
@@ -77,10 +77,10 @@
   width: 80%;
   display: flex;
   justify-content: space-between;
-  margin:100px auto ;
+  margin:100px auto;
 }
 .two-columns__brief{
-  max-width:175px ;
+  max-width:175px;
   font-size: 18px;
   line-height: 1.2;
   font-weight: normal;
@@ -173,7 +173,7 @@
   font-size: 120px;
   font-weight:700;
   text-align: center;
-  z-index:1 ;
+  z-index:1;
 }
 .feynman__subtitle{
   position: relative;
