@@ -167,7 +167,8 @@
 }
 .feynman__title{
   position: relative;
-  margin:100px auto 70px;
+  margin:0px auto 70px;
+  padding-top: 100px;
   width: 648px;
   line-height: 1.15em;
   font-size: 120px;
