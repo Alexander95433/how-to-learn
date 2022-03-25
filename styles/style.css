@@ -117,7 +117,7 @@
   font-size: 60px;
   font-weight: 700;
   margin: 0px;
-  text-align:center
+  text-align:center;
 }
 .section-subtitle{
   line-height: 34px;
@@ -252,7 +252,7 @@
 
 }
 .content_copyright{
-  flex-basis: 711px
+  flex-basis: 711px;
 
 }
 .footer__author{
@@ -285,8 +285,8 @@
   color: white;
 }
 .footer__social-icon{
-  width:16px ;
-  height:16px ;
+  width:16px;
+  height:16px;
   margin-right: 10px;
 }
 
