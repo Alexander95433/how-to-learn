@@ -245,6 +245,7 @@
    margin:60px auto 40px;
    display: flex;
    width: 90%;
+   justify-content: space-between;
 
 }
 .footer__column{
