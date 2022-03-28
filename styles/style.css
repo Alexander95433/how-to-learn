@@ -57,6 +57,7 @@
 
 .header__link {
 color: #2f80ed;
+text-decoration: none;
 }
 
 .header___main-illustration {
@@ -103,16 +104,16 @@ color: #2f80ed;
 }
 
 .two-columns__paragraph {
-  margin-bottom: 30px;
+  margin: 30px 0 0;
   line-height: 34px;
   font-size: 24px;
   font-weight: normal;
   list-style-type: none;
 }
-
-.two-columns__paragraph:last-of-type {
+.two-columns__paragraph:first-of-type {
   margin: 0;
 }
+
 
 .two-columns__span-accent {
   line-height: 34px;
@@ -164,7 +165,7 @@ color: #2f80ed;
 .table__text {
   margin: 0;
   margin-top: 20px;
-  line-height: 1.12;
+  line-height: 1.2;
   font-size: 18px;
   font-weight: normal;
   text-align: left;
@@ -201,7 +202,7 @@ color: #2f80ed;
   z-index: 1;
 }
 
-.feyman__link {
+.feynman__link {
   line-height: 51px;
   font-size: 36px;
   font-weight: normal;
@@ -253,12 +254,8 @@ color: #2f80ed;
   color: white;
   position: relative;
   z-index: 1;
-}
-
-.table__kaufman {
   width: 200px;
   padding: 0;
-  position: relative;
   margin: 80px 0 0;
 }
 
@@ -281,6 +278,7 @@ color: #2f80ed;
   display: flex;
   color: white;
   padding: 60px 0 40px;
+  box-sizing: border-box;
 }
 
 .footer__columns {
@@ -299,7 +297,7 @@ color: #2f80ed;
   justify-content: space-between;
 }
 
-.logo__place_footer {
+.logo_place_footer {
 background-image: url(/images/logo_place_footer.svg);
 background-size: cover;
 height: 35px;
