@@ -129,27 +129,27 @@ margin-top: 100px;
 
 /*digits*/
 
-.digits{
+/*.digits{
   margin-top: 100px;
-}
+}*/
 
-.section-title {
+/*.section-title {
   line-height: 1.15;
   font-size: 60px;
   font-weight: 700;
   margin: 0;
   text-align:center;
-}
+}*/
 
-.section-subtitle {
+/*.section-subtitle {
   line-height: 34px;
   font-size: 24px;
   font-weight: normal;
   margin: 20px 0 0;
   text-align:center;
-}
+}*/
 
-.table {
+/*.table {
   display: flex;
   flex-wrap: wrap;
   max-width: 1190px;
@@ -157,29 +157,29 @@ margin-top: 100px;
   justify-content: space-between;
   padding: 0;
   list-style-type: none;
-}
+}*/
 
-.table__cell {
+/*.table__cell {
   width: 250px;
   margin-top:60px;
-}
+}*/
 
-.table__heading {
+/*.table__heading {
   margin: 0;
   line-height: 1.15;
   font-size: 24px;
   font-weight: 700;
   text-align: left;
-}
+}*/
 
-.table__text {
+/*.table__text {
   margin: 0;
   margin-top: 20px;
   line-height: 1.2;
   font-size: 18px;
   font-weight: normal;
   text-align: left;
-}
+}*/
 
 /*feynman*/
 
@@ -190,7 +190,7 @@ margin-top: 100px;
   margin-top: 100px;
 }*/
 
-.feynman__title {
+/*.feynman__title {
   position: relative;
   margin:0 auto 70px;
   padding-top: 100px;
@@ -200,9 +200,9 @@ margin-top: 100px;
   font-weight:700;
   text-align: center;
   z-index:1;
-}
+}*/
 
-.feynman__subtitle {
+/*.feynman__subtitle {
   position: relative;
   margin: 0 auto;
   text-align: center;
@@ -210,9 +210,9 @@ margin-top: 100px;
   font-size: 36px;
   font-weight:normal;
   z-index: 1;
-}
+}*/
 
-.feynman__link {
+/*.feynman__link {
   line-height: 51px;
   font-size: 36px;
   font-weight: normal;
@@ -223,16 +223,16 @@ margin-top: 100px;
   text-decoration: none;
   color: #2f80ed;
   z-index: 1;
-}
+}*/
 
-.feynman__feyman-picture {
+/*.feynman__feyman-picture {
   max-width:867px;
   max-height: 636px;
   position: absolute;
   left: 0;
   bottom: 0;
   z-index: 0;
-}
+}*/
 
 /*kaufman*/
 
@@ -243,34 +243,34 @@ margin-top: 100px;
   position: relative;
 }*/
 
-.section-title_theme_dark {
+/*.section-title_theme_dark {
   color: white;
   position: relative;
   z-index: 1;
-}
+}*/
 
-.section-subtitle_theme_dark {
+/*.section-subtitle_theme_dark {
   color: white;
   position: relative;
   z-index: 1;
-}
+}*/
 
-.table_theme_dark {
+/*.table_theme_dark {
   color: white;
   position: relative;
   z-index: 1;
-}
+}*/
 
-.table__cell_theme_dark {
+/*.table__cell_theme_dark {
   color: white;
   position: relative;
   z-index: 1;
   width: 200px;
   padding: 0;
   margin: 80px 0 0;
-}
+}*/
 
-.kaufman__triangle {
+/*.kaufman__triangle {
   background-image: url(/images/kaufman-triangle.svg);
   background-size: cover;
   width:877px;
@@ -279,7 +279,7 @@ margin-top: 100px;
   right: -210px;
   top: 0;
   z-index: 0;
-}
+}*/
 
 /*footer*/
 
@@ -292,64 +292,64 @@ margin-top: 100px;
   box-sizing: border-box;
 }*/
 
-.footer__columns {
+/*.footer__columns {
    margin: 0 auto;
    display: flex;
    width: 90%;
    justify-content: space-between;
-}
+}*/
 
-.footer__column {}
+/*.footer__column {}*/
 
-.footer__column_content_copyright {
+/*.footer__column_content_copyright {
   flex-basis: 711px;
   display: flex;
   flex-direction: column;
   justify-content: space-between;
-}
+}*/
 
-.logo_place_footer {
+/*.logo_place_footer {
 background-image: url(/images/logo_place_footer.svg);
 background-size: cover;
 height: 35px;
-}
+}*/
 
-.footer__author {
+/*.footer__author {
   margin: 18px 0;
   line-height: 25px;
   font-size: 18px;
   font-weight: normal;
   justify-items: end;
-}
-.footer__column_content_info {}
+}*/
+/*.footer__column_content_info {}*/
 
-.footer__column_content_social {}
+/*.footer__column_content_social {}*/
 
-.footer__column-heading {
+/*.footer__column-heading {
   margin: 0;
   line-height: 30px;
   font-size: 18px;
   font-weight: 700;
-}
+}*/
 
-.footer__column-links {
+/*.footer__column-links {
   padding: 0;
   list-style-type: none;
   margin: 20px 0 16px;
-}
+}*/
 
-.footer__column-link {
+/*.footer__column-link {
   line-height: 30px;
   font-size: 18px;
   font-weight: normal;
   margin: 20px auto 16px;
   color: white;
   text-decoration: none;
-}
+}*/
 
-.footer__social-icon {
+/*.footer__social-icon {
   width: 16px;
   height: 16px;
   margin-right: 10px;
-}
+}*/
 
