@@ -5,4 +5,9 @@
   margin: 20px auto 16px;
   color: white;
   text-decoration: none;
+  transition: opacity .3s linear;
+}
+
+.footer__column-link:hover {
+  opacity: .5;
 }
