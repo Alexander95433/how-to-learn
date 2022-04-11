@@ -9,4 +9,7 @@
   animation: rotation 20s linear infinite normal;
 }
 
-
+@keyframes rotation {
+  forom{transform: rotate(0deg); }
+  to{transform: rotate(360deg); }
+}
