@@ -33,4 +33,4 @@
 - Будут добавлены дополнительные **обучающие видео**.  
 - Будут изменены некоторые **шрифты** проекта.  
 
- Ссылка на сайт:  https://alexander95433.github.io/how-to-learn/index.html 
+ **Ссылка** на страницу : https://alexander95433.github.io/how-to-learn/index.html 
